@@ -1,0 +1,2476 @@
+fileFormatVersion: 2
+guid: dc0a0c7f1c8aac547bfe877418407128
+timeCreated: 1442192801
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: antenna_l
+    100002: antenna_l1
+    100004: antenna_r
+    100006: antenna_r1
+    100008: bottom
+    100010: button
+    100012: button1
+    100014: chest
+    100016: ear_l
+    100018: ear_r
+    100020: elbow_l
+    100022: elbow_r
+    100024: face
+    100026: finger1_joint_l
+    100028: finger1_joint_r
+    100030: finger1_knuckle_l
+    100032: finger1_knuckle_r
+    100034: finger1_lower_l
+    100036: finger1_lower_r
+    100038: finger1_upper_l
+    100040: finger1_upper_r
+    100042: finger2_joint_l
+    100044: finger2_joint_r
+    100046: finger2_knuckle_l
+    100048: finger2_knuckle_r
+    100050: finger2_lower_l
+    100052: finger2_lower_r
+    100054: finger2_upper_l
+    100056: finger2_upper_r
+    100058: hand_l
+    100060: hand_r
+    100062: head1
+    100064: head_joint
+    100066: joint_elbow_l
+    100068: joint_elbow_r
+    100070: joint_finger1_knuckle_l
+    100072: joint_finger1_knuckle_r
+    100074: joint_finger1_l
+    100076: joint_finger1_r
+    100078: joint_finger1_tip_l
+    100080: joint_finger1_tip_r
+    100082: joint_finger2_knuckle_l
+    100084: joint_finger2_knuckle_r
+    100086: joint_finger2_l
+    100088: joint_finger2_r
+    100090: joint_finger2_tip_l
+    100092: joint_finger2_tip_r
+    100094: joint_shoulder_l
+    100096: joint_shoulder_r
+    100098: joint_thumb_knuckle_l
+    100100: joint_thumb_knuckle_r
+    100102: joint_thumb_l
+    100104: joint_thumb_r
+    100106: joint_thumb_tip_l
+    100108: joint_thumb_tip_r
+    100110: joint_torso
+    100112: joint_wrist_l
+    100114: joint_wrist_r
+    100116: lower_arm_l
+    100118: lower_arm_r
+    100120: lower_thumb_l
+    100122: lower_thumb_r
+    100124: neck_joint
+    100126: //RootNode
+    100128: shoulder_joint_l
+    100130: shoulder_joint_r
+    100132: shoulder_l
+    100134: shoulder_r
+    100136: thumb_joint_l
+    100138: thumb_joint_r
+    100140: thumb_knuckle_l
+    100142: thumb_knuckle_r
+    100144: torso1
+    100146: upper_arm_l
+    100148: upper_arm_r
+    100150: upper_thumb_l
+    100152: upper_thumb_r
+    100154: waist
+    100156: waist_joint
+    100158: wheel_ax_l
+    100160: wheel_ax_r
+    100162: wheel_joint_l
+    100164: wheel_joint_r
+    100166: wheel_l
+    100168: wheel_r
+    100170: wheel_tip_l
+    100172: wheel_tip_r
+    100174: wheelaxis
+    100176: wrist_l
+    100178: wrist_r
+    400000: antenna_l
+    400002: antenna_l1
+    400004: antenna_r
+    400006: antenna_r1
+    400008: bottom
+    400010: button
+    400012: button1
+    400014: chest
+    400016: ear_l
+    400018: ear_r
+    400020: elbow_l
+    400022: elbow_r
+    400024: face
+    400026: finger1_joint_l
+    400028: finger1_joint_r
+    400030: finger1_knuckle_l
+    400032: finger1_knuckle_r
+    400034: finger1_lower_l
+    400036: finger1_lower_r
+    400038: finger1_upper_l
+    400040: finger1_upper_r
+    400042: finger2_joint_l
+    400044: finger2_joint_r
+    400046: finger2_knuckle_l
+    400048: finger2_knuckle_r
+    400050: finger2_lower_l
+    400052: finger2_lower_r
+    400054: finger2_upper_l
+    400056: finger2_upper_r
+    400058: hand_l
+    400060: hand_r
+    400062: head1
+    400064: head_joint
+    400066: joint_elbow_l
+    400068: joint_elbow_r
+    400070: joint_finger1_knuckle_l
+    400072: joint_finger1_knuckle_r
+    400074: joint_finger1_l
+    400076: joint_finger1_r
+    400078: joint_finger1_tip_l
+    400080: joint_finger1_tip_r
+    400082: joint_finger2_knuckle_l
+    400084: joint_finger2_knuckle_r
+    400086: joint_finger2_l
+    400088: joint_finger2_r
+    400090: joint_finger2_tip_l
+    400092: joint_finger2_tip_r
+    400094: joint_shoulder_l
+    400096: joint_shoulder_r
+    400098: joint_thumb_knuckle_l
+    400100: joint_thumb_knuckle_r
+    400102: joint_thumb_l
+    400104: joint_thumb_r
+    400106: joint_thumb_tip_l
+    400108: joint_thumb_tip_r
+    400110: joint_torso
+    400112: joint_wrist_l
+    400114: joint_wrist_r
+    400116: lower_arm_l
+    400118: lower_arm_r
+    400120: lower_thumb_l
+    400122: lower_thumb_r
+    400124: neck_joint
+    400126: //RootNode
+    400128: shoulder_joint_l
+    400130: shoulder_joint_r
+    400132: shoulder_l
+    400134: shoulder_r
+    400136: thumb_joint_l
+    400138: thumb_joint_r
+    400140: thumb_knuckle_l
+    400142: thumb_knuckle_r
+    400144: torso1
+    400146: upper_arm_l
+    400148: upper_arm_r
+    400150: upper_thumb_l
+    400152: upper_thumb_r
+    400154: waist
+    400156: waist_joint
+    400158: wheel_ax_l
+    400160: wheel_ax_r
+    400162: wheel_joint_l
+    400164: wheel_joint_r
+    400166: wheel_l
+    400168: wheel_r
+    400170: wheel_tip_l
+    400172: wheel_tip_r
+    400174: wheelaxis
+    400176: wrist_l
+    400178: wrist_r
+    2300000: antenna_l1
+    2300002: antenna_r1
+    2300004: button
+    2300006: button1
+    2300008: elbow_l
+    2300010: elbow_r
+    2300012: face
+    2300014: finger1_joint_l
+    2300016: finger1_joint_r
+    2300018: finger1_knuckle_l
+    2300020: finger1_knuckle_r
+    2300022: finger1_lower_l
+    2300024: finger1_lower_r
+    2300026: finger1_upper_l
+    2300028: finger1_upper_r
+    2300030: finger2_joint_l
+    2300032: finger2_joint_r
+    2300034: finger2_knuckle_l
+    2300036: finger2_knuckle_r
+    2300038: finger2_lower_l
+    2300040: finger2_lower_r
+    2300042: finger2_upper_l
+    2300044: finger2_upper_r
+    2300046: hand_l
+    2300048: hand_r
+    2300050: head1
+    2300052: lower_arm_l
+    2300054: lower_arm_r
+    2300056: lower_thumb_l
+    2300058: lower_thumb_r
+    2300060: shoulder_joint_l
+    2300062: shoulder_joint_r
+    2300064: shoulder_l
+    2300066: shoulder_r
+    2300068: thumb_joint_l
+    2300070: thumb_joint_r
+    2300072: thumb_knuckle_l
+    2300074: thumb_knuckle_r
+    2300076: torso1
+    2300078: upper_arm_l
+    2300080: upper_arm_r
+    2300082: upper_thumb_l
+    2300084: upper_thumb_r
+    2300086: waist
+    2300088: waist_joint
+    2300090: wheel_joint_l
+    2300092: wheel_joint_r
+    2300094: wheel_l
+    2300096: wheel_r
+    2300098: wheelaxis
+    2300100: wrist_l
+    2300102: wrist_r
+    3300000: antenna_l1
+    3300002: antenna_r1
+    3300004: button
+    3300006: button1
+    3300008: elbow_l
+    3300010: elbow_r
+    3300012: face
+    3300014: finger1_joint_l
+    3300016: finger1_joint_r
+    3300018: finger1_knuckle_l
+    3300020: finger1_knuckle_r
+    3300022: finger1_lower_l
+    3300024: finger1_lower_r
+    3300026: finger1_upper_l
+    3300028: finger1_upper_r
+    3300030: finger2_joint_l
+    3300032: finger2_joint_r
+    3300034: finger2_knuckle_l
+    3300036: finger2_knuckle_r
+    3300038: finger2_lower_l
+    3300040: finger2_lower_r
+    3300042: finger2_upper_l
+    3300044: finger2_upper_r
+    3300046: hand_l
+    3300048: hand_r
+    3300050: head1
+    3300052: lower_arm_l
+    3300054: lower_arm_r
+    3300056: lower_thumb_l
+    3300058: lower_thumb_r
+    3300060: shoulder_joint_l
+    3300062: shoulder_joint_r
+    3300064: shoulder_l
+    3300066: shoulder_r
+    3300068: thumb_joint_l
+    3300070: thumb_joint_r
+    3300072: thumb_knuckle_l
+    3300074: thumb_knuckle_r
+    3300076: torso1
+    3300078: upper_arm_l
+    3300080: upper_arm_r
+    3300082: upper_thumb_l
+    3300084: upper_thumb_r
+    3300086: waist
+    3300088: waist_joint
+    3300090: wheel_joint_l
+    3300092: wheel_joint_r
+    3300094: wheel_l
+    3300096: wheel_r
+    3300098: wheelaxis
+    3300100: wrist_l
+    3300102: wrist_r
+    4300000: finger2_upper_l
+    4300002: finger2_lower_l
+    4300004: finger2_joint_l
+    4300006: upper_thumb_l
+    4300008: lower_thumb_l
+    4300010: thumb_joint_l
+    4300012: finger1_upper_l
+    4300014: finger1_lower_l
+    4300016: finger1_joint_l
+    4300018: hand_l
+    4300020: finger2_knuckle_l
+    4300022: finger1_knuckle_l
+    4300024: thumb_knuckle_l
+    4300026: lower_arm_l
+    4300028: wrist_l
+    4300030: upper_arm_l
+    4300032: elbow_l
+    4300034: antenna_l1
+    4300036: antenna_r1
+    4300038: head1
+    4300040: face
+    4300042: finger2_upper_r
+    4300044: finger2_lower_r
+    4300046: finger2_joint_r
+    4300048: upper_thumb_r
+    4300050: lower_thumb_r
+    4300052: thumb_joint_r
+    4300054: finger1_upper_r
+    4300056: finger1_lower_r
+    4300058: finger1_joint_r
+    4300060: hand_r
+    4300062: finger2_knuckle_r
+    4300064: finger1_knuckle_r
+    4300066: thumb_knuckle_r
+    4300068: lower_arm_r
+    4300070: wrist_r
+    4300072: upper_arm_r
+    4300074: elbow_r
+    4300076: wheel_l
+    4300078: wheel_r
+    4300080: wheelaxis
+    4300082: wheel_joint_r
+    4300084: wheel_joint_l
+    4300086: waist_joint
+    4300088: waist
+    4300090: torso1
+    4300092: shoulder_l
+    4300094: shoulder_joint_l
+    4300096: shoulder_r
+    4300098: shoulder_joint_r
+    4300100: button
+    4300102: button1
+    7400000: Walk
+    7400002: Idle
+    7400004: Scared
+    7400006: Happy
+    7400008: Wave
+    7400010: Surprise
+    7400012: Talking
+    7400014: Pointing
+    7400016: Remote Holding
+    7400018: Falling
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 7
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_torso
+        weight: 1
+      - path: joint_torso/bottom
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l/wheel_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r/wheel_r
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_l
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_r
+        weight: 1
+      - path: joint_torso/chest
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l/finger1_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/finger1_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/joint_finger1_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l/finger2_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/finger2_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/joint_finger2_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/joint_thumb_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/upper_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l/thumb_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l/wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l/elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r/finger1_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/finger1_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/joint_finger1_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r/finger2_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/finger2_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/joint_finger2_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/joint_thumb_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/upper_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r/thumb_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r/wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r/elbow_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1/face
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r1
+        weight: 1
+      - path: joint_torso/waist_joint
+        weight: 1
+      - path: joint_torso/waist_joint/torso1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l/shoulder_joint_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r/shoulder_joint_r
+        weight: 1
+      - path: joint_torso/waist_joint/waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 37
+      lastFrame: 159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_torso
+        weight: 1
+      - path: joint_torso/bottom
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l/wheel_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r/wheel_r
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_l
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_r
+        weight: 1
+      - path: joint_torso/chest
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l/finger1_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/finger1_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/joint_finger1_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l/finger2_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/finger2_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/joint_finger2_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/joint_thumb_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/upper_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l/thumb_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l/wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l/elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r/finger1_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/finger1_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/joint_finger1_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r/finger2_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/finger2_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/joint_finger2_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/joint_thumb_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/upper_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r/thumb_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r/wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r/elbow_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1/face
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r1
+        weight: 1
+      - path: joint_torso/waist_joint
+        weight: 1
+      - path: joint_torso/waist_joint/torso1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l/shoulder_joint_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r/shoulder_joint_r
+        weight: 1
+      - path: joint_torso/waist_joint/waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Scared
+      takeName: Take 001
+      firstFrame: 161
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_torso
+        weight: 1
+      - path: joint_torso/bottom
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l/wheel_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r/wheel_r
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_l
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_r
+        weight: 1
+      - path: joint_torso/chest
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l/finger1_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/finger1_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/joint_finger1_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l/finger2_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/finger2_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/joint_finger2_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/joint_thumb_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/upper_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l/thumb_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l/wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l/elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r/finger1_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/finger1_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/joint_finger1_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r/finger2_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/finger2_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/joint_finger2_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/joint_thumb_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/upper_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r/thumb_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r/wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r/elbow_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1/face
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r1
+        weight: 1
+      - path: joint_torso/waist_joint
+        weight: 1
+      - path: joint_torso/waist_joint/torso1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l/shoulder_joint_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r/shoulder_joint_r
+        weight: 1
+      - path: joint_torso/waist_joint/waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Happy
+      takeName: Take 001
+      firstFrame: 181
+      lastFrame: 209
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_torso
+        weight: 1
+      - path: joint_torso/bottom
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l/wheel_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r/wheel_r
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_l
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_r
+        weight: 1
+      - path: joint_torso/chest
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l/finger1_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/finger1_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/joint_finger1_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l/finger2_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/finger2_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/joint_finger2_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/joint_thumb_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/upper_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l/thumb_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l/wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l/elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r/finger1_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/finger1_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/joint_finger1_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r/finger2_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/finger2_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/joint_finger2_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/joint_thumb_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/upper_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r/thumb_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r/wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r/elbow_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1/face
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r1
+        weight: 1
+      - path: joint_torso/waist_joint
+        weight: 1
+      - path: joint_torso/waist_joint/torso1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l/shoulder_joint_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r/shoulder_joint_r
+        weight: 1
+      - path: joint_torso/waist_joint/waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Wave
+      takeName: Take 001
+      firstFrame: 212
+      lastFrame: 235
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_torso
+        weight: 1
+      - path: joint_torso/bottom
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l/wheel_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r/wheel_r
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_l
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_r
+        weight: 1
+      - path: joint_torso/chest
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l/finger1_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/finger1_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/joint_finger1_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l/finger2_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/finger2_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/joint_finger2_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/joint_thumb_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/upper_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l/thumb_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l/wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l/elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r/finger1_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/finger1_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/joint_finger1_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r/finger2_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/finger2_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/joint_finger2_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/joint_thumb_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/upper_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r/thumb_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r/wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r/elbow_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1/face
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r1
+        weight: 1
+      - path: joint_torso/waist_joint
+        weight: 1
+      - path: joint_torso/waist_joint/torso1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l/shoulder_joint_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r/shoulder_joint_r
+        weight: 1
+      - path: joint_torso/waist_joint/waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Surprise
+      takeName: Take 001
+      firstFrame: 236
+      lastFrame: 252
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_torso
+        weight: 1
+      - path: joint_torso/bottom
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l/wheel_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r/wheel_r
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_l
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_r
+        weight: 1
+      - path: joint_torso/chest
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l/finger1_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/finger1_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/joint_finger1_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l/finger2_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/finger2_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/joint_finger2_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/joint_thumb_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/upper_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l/thumb_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l/wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l/elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r/finger1_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/finger1_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/joint_finger1_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r/finger2_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/finger2_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/joint_finger2_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/joint_thumb_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/upper_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r/thumb_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r/wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r/elbow_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1/face
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r1
+        weight: 1
+      - path: joint_torso/waist_joint
+        weight: 1
+      - path: joint_torso/waist_joint/torso1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l/shoulder_joint_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r/shoulder_joint_r
+        weight: 1
+      - path: joint_torso/waist_joint/waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Talking
+      takeName: Take 001
+      firstFrame: 253
+      lastFrame: 310
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_torso
+        weight: 1
+      - path: joint_torso/bottom
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l/wheel_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r/wheel_r
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_l
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_r
+        weight: 1
+      - path: joint_torso/chest
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l/finger1_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/finger1_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/joint_finger1_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l/finger2_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/finger2_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/joint_finger2_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/joint_thumb_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/upper_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l/thumb_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l/wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l/elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r/finger1_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/finger1_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/joint_finger1_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r/finger2_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/finger2_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/joint_finger2_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/joint_thumb_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/upper_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r/thumb_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r/wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r/elbow_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1/face
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r1
+        weight: 1
+      - path: joint_torso/waist_joint
+        weight: 1
+      - path: joint_torso/waist_joint/torso1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l/shoulder_joint_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r/shoulder_joint_r
+        weight: 1
+      - path: joint_torso/waist_joint/waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Pointing
+      takeName: Take 001
+      firstFrame: 311
+      lastFrame: 335
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_torso
+        weight: 1
+      - path: joint_torso/bottom
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l/wheel_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r/wheel_r
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_l
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_r
+        weight: 1
+      - path: joint_torso/chest
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l/finger1_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/finger1_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/joint_finger1_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l/finger2_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/finger2_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/joint_finger2_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/joint_thumb_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/upper_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l/thumb_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l/wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l/elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r/finger1_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/finger1_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/joint_finger1_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r/finger2_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/finger2_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/joint_finger2_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/joint_thumb_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/upper_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r/thumb_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r/wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r/elbow_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1/face
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r1
+        weight: 1
+      - path: joint_torso/waist_joint
+        weight: 1
+      - path: joint_torso/waist_joint/torso1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l/shoulder_joint_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r/shoulder_joint_r
+        weight: 1
+      - path: joint_torso/waist_joint/waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Remote Holding
+      takeName: Take 001
+      firstFrame: 336
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_torso
+        weight: 1
+      - path: joint_torso/bottom
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l/wheel_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r/wheel_r
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_l
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_r
+        weight: 1
+      - path: joint_torso/chest
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l/finger1_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/finger1_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/joint_finger1_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l/finger2_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/finger2_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/joint_finger2_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/joint_thumb_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/upper_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l/thumb_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l/wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l/elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r/finger1_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/finger1_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/joint_finger1_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r/finger2_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/finger2_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/joint_finger2_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/joint_thumb_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/upper_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r/thumb_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r/wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r/elbow_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1/face
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r1
+        weight: 1
+      - path: joint_torso/waist_joint
+        weight: 1
+      - path: joint_torso/waist_joint/torso1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l/shoulder_joint_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r/shoulder_joint_r
+        weight: 1
+      - path: joint_torso/waist_joint/waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Falling
+      takeName: Take 001
+      firstFrame: 501
+      lastFrame: 535
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint_torso
+        weight: 1
+      - path: joint_torso/bottom
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_l/wheel_tip_l/wheel_l
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r
+        weight: 1
+      - path: joint_torso/bottom/wheel_ax_r/wheel_tip_r/wheel_r
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_l
+        weight: 1
+      - path: joint_torso/bottom/wheelaxis/wheel_joint_r
+        weight: 1
+      - path: joint_torso/chest
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/hand_l/thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/finger1_lower_l/finger1_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/finger1_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger1_knuckle_l/joint_finger1_l/joint_finger1_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/finger2_lower_l/finger2_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/finger2_upper_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_finger2_knuckle_l/joint_finger2_l/joint_finger2_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/joint_thumb_tip_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/joint_thumb_l/upper_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/joint_wrist_l/joint_thumb_knuckle_l/lower_thumb_l/thumb_joint_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/joint_elbow_l/lower_arm_l/wrist_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_l/upper_arm_l/elbow_l
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/hand_r/thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/finger1_lower_r/finger1_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/finger1_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger1_knuckle_r/joint_finger1_r/joint_finger1_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/finger2_lower_r/finger2_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/finger2_upper_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_finger2_knuckle_r/joint_finger2_r/joint_finger2_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/joint_thumb_tip_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/joint_thumb_r/upper_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/joint_wrist_r/joint_thumb_knuckle_r/lower_thumb_r/thumb_joint_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/joint_elbow_r/lower_arm_r/wrist_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r
+        weight: 1
+      - path: joint_torso/chest/joint_shoulder_r/upper_arm_r/elbow_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head1/face
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_l/antenna_l1
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r
+        weight: 1
+      - path: joint_torso/chest/neck_joint/head_joint/ear_r/antenna_r1
+        weight: 1
+      - path: joint_torso/waist_joint
+        weight: 1
+      - path: joint_torso/waist_joint/torso1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/button1
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_l/shoulder_joint_l
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r
+        weight: 1
+      - path: joint_torso/waist_joint/torso1/shoulder_r/shoulder_joint_r
+        weight: 1
+      - path: joint_torso/waist_joint/waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

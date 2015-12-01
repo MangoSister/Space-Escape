@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 2867cfbc6205d594d96654e1d2e5fffa
+timeCreated: 1442456873
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: corridorWall
+    100004: Cube
+    100006: Cube.001
+    100008: floor
+    100010: LightObject
+    100012: PipeBig
+    100014: PipeBig.001
+    100016: Plane
+    100018: Plane.001
+    100020: roof
+    100022: stair
+    100024: stair.001
+    400000: //RootNode
+    400002: corridorWall
+    400004: Cube
+    400006: Cube.001
+    400008: floor
+    400010: LightObject
+    400012: PipeBig
+    400014: PipeBig.001
+    400016: Plane
+    400018: Plane.001
+    400020: roof
+    400022: stair
+    400024: stair.001
+    2300000: corridorWall
+    2300002: Cube
+    2300004: Cube.001
+    2300006: floor
+    2300008: LightObject
+    2300010: PipeBig
+    2300012: PipeBig.001
+    2300014: Plane
+    2300016: Plane.001
+    2300018: roof
+    2300020: stair
+    2300022: stair.001
+    3300000: corridorWall
+    3300002: Cube
+    3300004: Cube.001
+    3300006: floor
+    3300008: LightObject
+    3300010: PipeBig
+    3300012: PipeBig.001
+    3300014: Plane
+    3300016: Plane.001
+    3300018: roof
+    3300020: stair
+    3300022: stair.001
+    4300000: Cube.001
+    4300002: Cube
+    4300004: LightObject
+    4300006: Plane.001
+    4300008: PipeBig.001
+    4300010: stair.001
+    4300012: corridorWall
+    4300014: roof
+    4300016: floor
+    4300018: stair
+    4300020: PipeBig
+    4300022: Plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
